@@ -1,2 +1,2 @@
 # python_webhook
-This app uses Python for sending messages from files, to a Slack platform group channel.
+Python application for sending messages from file (file.txt) to a Slack platform group channel.
